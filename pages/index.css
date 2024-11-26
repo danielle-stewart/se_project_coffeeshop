@@ -96,7 +96,7 @@ nav ul li a {
   color: #000000;
 }
 
-.recipies {
+.recipes {
   color: #ffff;
   background-color: #0a2750;
   padding: 100px 80px 215px;
@@ -113,7 +113,7 @@ nav ul li a {
   max-width: 500px;
 }
 
-.recipies__subtitle {
+.recipes__subtitle {
   margin: 0 0 80px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
@@ -123,14 +123,14 @@ nav ul li a {
   max-width: 438px;
 }
 
-.recipies__videos {
+.recipes__videos {
   display: flex;
   justify-content: center;
   gap: 40px;
   list-style-type: none;
 }
 
-.recipies__video-caption {
+.recipes__video-caption {
   display: flex;
   justify-content: space-between;
   font-family: "Inter", Arial, sans-serif;
