@@ -140,7 +140,7 @@ nav ul li a {
   line-height: 30px;
 }
 
-iframe {
+.recipes__iframe {
   width: 560px;
   height: 315px;
   border: none;
