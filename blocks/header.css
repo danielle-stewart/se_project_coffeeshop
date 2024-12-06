@@ -7,6 +7,8 @@
   background-image: url(../images/background_header.svg);
   position: relative;
   background-size: cover;
+  z-index: 1;
+  background-position: center;
 }
 
 .header__title {
@@ -48,6 +50,7 @@
   margin: 0;
   color: #6f6f6f;
   margin-top: auto;
+  font-weight: 500;
 }
 
 .header__image {
@@ -56,4 +59,5 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
